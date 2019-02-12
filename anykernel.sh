@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=Delphium kernel project whyred @maplezs
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
+device.name1=whyred
+device.name2=Redmi Note 5 Pro
+device.name3=whyred-user
 device.name4=
 device.name5=
 supported.versions=
